@@ -80,7 +80,7 @@ namespace Tarea1
 
 		public string ToString()
 		{
-			return "Marca: " + marca + " Modelo: " + modelo + " IMEI: " + imei + " Numero de telefono: " + numeroTelefono + " " + camaraFrontal.ToString() + " " + camaraTrasera.ToString() + " " + almacenamientoDisponible.ToString() + " " + sistemaOperativo +" " + tarifa.ToString() + " " + dimensiones.ToString();
+			return "Marca: " + marca + " Modeloo: " + modelo + " IMEI: " + imei + " Numero de telefono: " + numeroTelefono + " " + camaraFrontal.ToString() + " " + camaraTrasera.ToString() + " " + almacenamientoDisponible.ToString() + " " + sistemaOperativo +" " + tarifa.ToString() + " " + dimensiones.ToString();
 		}
 
 		public void HacerFoto(string camara)
